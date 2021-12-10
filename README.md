@@ -5,7 +5,7 @@
 [![Get the dataset](https://img.shields.io/badge/Get%20the%20Dataset-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/11w267LWI8tbWhf1SR8kd-l6fP9WbJwNL)
 [![GitHub](https://img.shields.io/github/license/causal-disentanglement/IITH-CANDLE)](https://github.com/causal-disentanglement/IITH-CANDLE/blob/main/LICENSE)
 
-# Sample images from CANDLE
+# Sample images from IITH-CANDLE
 ![CANDLE grid](./images/grid.png)
 
 
