@@ -1,7 +1,7 @@
 # IITH-CANDLE
 
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
-[![AAAI](https://img.shields.io/badge/AAAI 2022-<identifier>-275161.svg)](https://aaai.org/Conferences/AAAI-22/)
+[![AAAI](https://img.shields.io/badge/AAAI 2022-identifier-275161.svg)](https://aaai.org/Conferences/AAAI-22/)
 [![Get the dataset](https://img.shields.io/badge/Get%20the%20Dataset-4285F4?logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/11w267LWI8tbWhf1SR8kd-l6fP9WbJwNL)
 [![GitHub](https://img.shields.io/github/license/causal-disentanglement/IITH-CANDLE)](https://github.com/causal-disentanglement/IITH-CANDLE/blob/main/LICENSE)
 
