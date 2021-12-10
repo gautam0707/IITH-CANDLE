@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/github/license/causal-disentanglement/IITH-CANDLE)](https://github.com/causal-disentanglement/IITH-CANDLE/blob/main/LICENSE)
 
 # Sample images from IITH-CANDLE
-![CANDLE grid](./images/grid.png)
+![CANDLE grid](./images/grid8x.png)
 
 
 <a href="https://iith.ac.in"><img align="right" height=100px style="margin-left: 10px" src="./images/iith.png"></a>

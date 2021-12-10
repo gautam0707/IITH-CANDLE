@@ -9,7 +9,7 @@ aside:
 article_header:
   type: cover
   image:
-    src: /images/grid.png
+    src: /images/grid12x.png
 ---
 [![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg)](https://arxiv.org/abs/1234.56789)
 [![AAAI](https://img.shields.io/badge/AAAI 2022-identifier-275161.svg)](https://aaai.org/Conferences/AAAI-22/)
