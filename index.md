@@ -84,8 +84,6 @@ We also propose two evaluation metrics in our paper to study *causal disentangle
 # Experiments
 The code and instructions to reproduce experiments in the paper can be found at (a fork of) [disentanglement_lib](https://github.com/causal-disentanglement/disentanglement_lib).
 
-# Abstract
-Representation learners that disentangle factors of variation have already proven to be important in addressing various real world concerns such as fairness and interpretability. Initially consisting of unsupervised models with independence assumptions, more recently, weak supervision and correlated features have been explored, but without a causal view of the generative process. In contrast, we work under the regime of a causal generative process where generative factors are either independent or can be potentially confounded by a set of observed or unobserved confounders. We present an analysis of disentangled representations through the notion of disentangled causal process. We motivate the need for new metrics and datasets to study causal disentanglement and propose two evaluation metrics and a dataset. We show that our metrics capture the desiderata of disentangled causal process. Finally, we perform an empirical study on state of the art disentangled representation learners using our metrics and dataset to evaluate them from causal perspective.
 # Comparison With Existing Datasets
 In the table below we compare IITH-CANDLE dataset with some popular datasets in disentanglement representation learning and OOD generalization tasks.
 |Dataset|Depth of Underlying Causal Graph| 3D | Realistic | Presence of Foreground Object| Foreground Object Not Centered | Complex Background | Confounders|
@@ -107,6 +105,10 @@ In the table below we compare IITH-CANDLE dataset with some popular datasets in 
 |PACS|N/A|N/A|N/A|:heavy_check_mark:|:heavy_check_mark:|N/A|N/A|
 |Office-Home|N/A|N/A|N/A|:heavy_check_mark:|:heavy_check_mark:|N/A|N/A|
 |**CANDLE**|**2** |**:heavy_check_mark:**|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+
+# Abstract
+Representation learners that disentangle factors of variation have already proven to be important in addressing various real world concerns such as fairness and interpretability. Initially consisting of unsupervised models with independence assumptions, more recently, weak supervision and correlated features have been explored, but without a causal view of the generative process. In contrast, we work under the regime of a causal generative process where generative factors are either independent or can be potentially confounded by a set of observed or unobserved confounders. We present an analysis of disentangled representations through the notion of disentangled causal process. We motivate the need for new metrics and datasets to study causal disentanglement and propose two evaluation metrics and a dataset. We show that our metrics capture the desiderata of disentangled causal process. Finally, we perform an empirical study on state of the art disentangled representation learners using our metrics and dataset to evaluate them from causal perspective.
+
 # Paper PDF
 
 An arXiv preprint is available [here](https://arxiv.org/).
