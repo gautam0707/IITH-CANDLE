@@ -89,7 +89,7 @@ If you use *IITH-CANDLE*, please consider citing:
 @article{iithcandle, 
 title={On Causally Disentangled Representations},  
 journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-author={Abbavaram Gowtham Reddy, Benin Godfrey L, and Vineeth N Balasubramanian}, 
+author={Abbavaram Gowtham Reddy and Benin Godfrey L and Vineeth N Balasubramanian}, 
 year={2022},
 month={February}
 }
