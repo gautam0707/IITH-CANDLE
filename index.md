@@ -89,7 +89,7 @@ Representation learners that disentangle factors of variation have already prove
 
 # Paper PDF
 
-An arXiv preprint is also available [here](https://arxiv.org/).
+An arXiv preprint is available [here](https://arxiv.org/).
 
 # How to cite our work
 If you use *IITH-CANDLE*, please consider citing:
