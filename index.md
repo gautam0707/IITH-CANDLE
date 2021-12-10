@@ -86,6 +86,7 @@ The code and instructions to reproduce experiments in the paper can be found at 
 
 # Comparison With Existing Datasets
 In the table below we compare IITH-CANDLE dataset with some popular datasets in disentanglement representation learning and OOD generalization tasks.
+
 |Dataset|Depth of Underlying Causal Graph| 3D | Realistic | Presence of Foreground Object| Foreground Object Not Centered | Complex Background | Confounders|
 | ------------- | ------------- |---|---|---|---|---|---|
 |dSprites|1| :x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:| :x:|
