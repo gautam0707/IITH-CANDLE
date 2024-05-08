@@ -59,7 +59,7 @@ The dataset can be downloaded from [here](https://drive.google.com/drive/folders
 # Simulating and extending IITH-CANDLE
 IITH-CANDLE is rendered using [Blender](https://www.blender.org) by overlaying 3D sprites on panoramic HDRi background images. Simulating a version is as simple as running `blender -b -noaudio -P candle_simulator.py`.
 
-Don't like the torus? Want a monkey there instead? Simply create the sprites and add them to the simulator. Code and instructions are at [the candle-simulator repository](https://github.com/causal-disentanglement/candle-simulator).
+Don't like the torus? Want a monkey there instead? Simply create the sprites and add them to the simulator. Code and instructions are at [the candle-simulator repository](https://github.com/gautam0707/candle-simulator).
 
 # Evaluation Metrics
 We also propose two evaluation metrics in our paper to study *causal disentanglement*. We look at latent variable models (e.g., Beta VAE) as disentangled causal processes (Suter et al, ICML 2019) and propose two evaluation metrics to measure causal disentanglement using the notion of causally responsible generative factors in an image. Please refer to the paper for more details.
